@@ -1,0 +1,21 @@
+.judul{
+    color : rgb(0, 149, 235);
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+	text-decoration: overline;
+    word-spacing: 10px;
+    position: initial;
+}
+.subjudul{
+    color: aliceblue;
+}
+.jumbotron{
+    height: 200vh;
+}
+.shadows{
+    box-shadow: 2px 2px 20px  rgb(0, 149, 235);
+}
+.shadowss{
+    box-shadow: 2px 2px 20px black;
+}
